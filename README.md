@@ -8,3 +8,6 @@ Aplikacja rozwiązująca równania kwadratowe
 
 
 ![Image description](/Possible_graphs.png)
+
+
+IT IS OPEN SOURCE!
